@@ -1,0 +1,16 @@
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\bin\Debug\CampusRecruitmentsystem.exe.config
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\bin\Debug\CampusRecruitmentsystem.exe
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\bin\Debug\CampusRecruitmentsystem.pdb
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.csprojResolveAssemblyReference.cache
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form1.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Properties.Resources.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.csproj.GenerateResource.Cache
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.exe
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.pdb
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form2.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form3.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form4.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form5.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form7.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form8.resources
+C:\Users\Ganesh Nayak\Desktop\project2\CampusRecruitmentsystem\CampusRecruitmentsystem\obj\Debug\CampusRecruitmentsystem.Form6.resources
